@@ -2,7 +2,17 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=nashaatfarrag.visitor-badge)
 
 
-![Nashaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashaatfarrag&theme=dark&show_icons=true)
+<!-- ![Nashaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashaatfarrag&theme=dark&show_icons=true) -->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nashaatfarrag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nashaatfarrag&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
 <!--
