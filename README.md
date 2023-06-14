@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=nashaatfarrag.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nashaatfarrag&left_color=green&right_color=red)
 
 
 <!-- ![Nashaat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashaatfarrag&theme=dark&show_icons=true) -->
